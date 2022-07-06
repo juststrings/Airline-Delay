@@ -32,3 +32,7 @@ I found out that the given data isnt enough to assist airlines in predicting the
 With an higher probability of delay by longer lengths between airlines.
 I would recommend airlines to depart early enough when travelling a longer distances to avoid delays.
 
+
+---
+# Note
+File was uploaded as a power BI template due to large size of initial file
