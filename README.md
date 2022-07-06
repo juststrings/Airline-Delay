@@ -1,6 +1,25 @@
-# Airline-Delay
+
+ 
+
+Project 1: Airlines Delay Storytelling
+
+---
+# Problem Objective:   
 
 
 
 ---
-## Problem Objective: Problem Statement
+# Data Sourcing
+
+
+
+
+
+---
+# Data Transformation
+
+
+
+---
+# Findings and Recommendation
+
