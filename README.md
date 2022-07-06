@@ -20,6 +20,7 @@ https://raw.githubusercontent.com/theoyinbooke/30Days-of-Learning-Data-Analysis-
 # Data Transformation
 
 The Data was Clean
+---
 I created a new table for Date, Airline, Delay and Destination for easy Data Insight
 
 
