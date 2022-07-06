@@ -1,7 +1,6 @@
 
  
-
-Project 1: Airlines Delay Storytelling
+# Project Name: Airlines Delay Storytelling
 
 ---
 # Problem Objective:   
