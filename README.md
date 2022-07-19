@@ -83,6 +83,13 @@ Then I changed the data type of bother length and Delay to whole numbers.<br>
 
 
 
+## Data Model
+
+![model](https://user-images.githubusercontent.com/92920156/179704928-a132b883-63e5-4b9d-84be-93731c79d634.jpg)
+In the modelling section, I used the ID as the key for all tables and then used it to connect all the tables to a fact table which was the airline table.
+
+
+
 
 
 
