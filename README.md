@@ -116,6 +116,14 @@ Meaning that LONGER LENGTH TRAVELLED LEADS TO A HIGHER CHANCE OF DELAY
 It will be seen that this relationship is re-establishing the relationship between Airlines WN and OO. <br>
 That's a longer distance travelled by airline DL to that of airline MQ but a smaller flight covered by Airline DL to Airline MQ leads to a higher delay by airline DL than that airline MQ
 
+### Scenario Two for Top 5 Section
+
+* Looking at the relationship between Airlines US and UA.<br>
+You would notice that airline US has a shorter distance travelled compared to that of airline UA.<br>
+Though, Airline US has a longer flight covered than Airline UA.<br>
+This led to a higher delay by airline US than airline UA because their difference in length it's quite small unlike their huge difference in flight which gave airline US a higher delay.<br>
+That is LONGER FLIGHT LEADS TO A HIGHER CHANCE OF DELAY if the difference between the length/distance travelled are close.
+
 
 
 
