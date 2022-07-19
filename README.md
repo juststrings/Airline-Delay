@@ -20,9 +20,9 @@ Create a Report that gives the necessary insights on airline delays, the reasons
 
 # Tools to actualize the project
 
-Power Bi,
-Excel,
-Notepad,
+Power Bi<br>
+Excel<br>
+Notepad<br>
 
 ---
 # Data Sourcing
@@ -42,10 +42,20 @@ It includes just one table with 9 columns: Id, Airline, Flight, Airport From, Ai
 
 ## Data Transformation
 
-![table one](https://user-images.githubusercontent.com/92920156/179701293-af11483d-fa2b-4c80-aa56-dbcd8d7336b2.jpg)
+![duplicate](https://user-images.githubusercontent.com/92920156/179702740-c163641b-ac54-408a-a314-d4c3a3b560d7.jpg)
 
-The very first thing I did was to duplicate the original table into 4 new tables and renamed them - flight, destination, Date and Delay respectively.
+
+The very first thing I did was to duplicate the original table into 4 new tables and renamed them - flight, destination, Date and Delay respectively.<br>
 I did this so I would understand the data better and establish a better relationship.
+
+
+
+In the table named flight. I unpivoted other columns excluding ID, airlines and flights then I removed those unpivoted columns..<br>
+I changed the data type of the flight column in the flight table to whole numbers.
+
+
+
+
 
 
 
