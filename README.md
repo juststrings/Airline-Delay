@@ -155,6 +155,23 @@ We would notice Airline airline 9E has a higher flight covered compared to airli
 
 Their fore this accounted for the higher delay in airline Xe with a lesser delay in airline FL. <br>
 
+## Recommendation
+
+With this analytics, I would recommend airline WN the airline with the highest delay to reduce their flight covered which is their main reason for a high delay.<br>
+You may be thinking I would have mentioned length but no! <br>
+
+When you compare the analytics of WN and UA you would notice that airline UA has approximately half of the length covered by airline WN with a corresponding approximate 1/12 of her flight..<br>
+
+Leading to a delay difference of over 55,000.<br>
+
+Having seen this you would notice that despite the fact that Length is the number factor when Talking of delay but flight covered is also an important factor that could widen the margin of delay if it's too much… <br>
+
+Though a piece of general advice for all airlines is to copy or imitate the result or methods of which is keeping a balanced ratio between the length and the flight.. <br>
+It's advisable that the flight should just be twice the length in order to achieve and beat the result of airline UA and maintain a reasonable delay.<br>
+
+The purpose of an airline is to serve customers and provide utmost satisfaction not dissatisfaction.<br>
+Not forgetting that delay is a factor that could lead to dissatisfaction which would result in a reduction in patronage and finally a decline in revenue.<br>
+
 
 
 
