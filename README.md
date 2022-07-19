@@ -2,7 +2,7 @@
  
  
 # Introduction
-This is my capstone project submission for Microsoft 30 days of learning with a chosen track of Data analysis using Power Bi.
+This is my submission for Microsoft 30 days of learning capstone project with a chosen track of Data analysis using Power Bi.
 
 
 # Project Name: Airlines Delay Storytelling
