@@ -122,8 +122,12 @@ That's a longer distance travelled by airline DL to that of airline MQ but a sma
 You would notice that airline US has a shorter distance travelled compared to that of airline UA.<br>
 Though, Airline US has a longer flight covered than Airline UA.<br>
 This led to a higher delay by airline US than airline UA because their difference in length it's quite small unlike their huge difference in flight which gave airline US a higher delay.<br>
-That is LONGER FLIGHT LEADS TO A HIGHER CHANCE OF DELAY if the difference between the length/distance travelled are close.
+That is LONGER FLIGHT LEADS TO A HIGHER CHANCE OF DELAY if the difference between the length/distance travelled are close. <br> <br>
 
+
+Taking insights from the bookmarked bottom 5 section of the reports which consist of the bottom 5 airlines in terms of flight, delay and length.
+
+![bottom 5](https://user-images.githubusercontent.com/92920156/179707977-b188012f-cd57-417f-9e80-7d8dcf2ea15d.jpg)
 
 
 
