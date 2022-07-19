@@ -42,26 +42,27 @@ It includes just one table with 9 columns: Id, Airline, Flight, Airport From, Ai
 
 ## Data Transformation
 
+### 1.
 ![duplicate](https://user-images.githubusercontent.com/92920156/179702740-c163641b-ac54-408a-a314-d4c3a3b560d7.jpg)
 
 
 The very first thing I did was to duplicate the original table into 4 new tables and renamed them - flight, destination, Date and Delay respectively.<br>
 I did this so I would understand the data better and establish a better relationship. <br>
 
-
+### 2.
 ![flight](https://user-images.githubusercontent.com/92920156/179702981-897bcc4c-09e4-4f10-bcb3-5c809df3b02b.jpg)
 
 In the table named flight. I unpivoted other columns excluding ID, airlines and flights then I removed those unpivoted columns..<br>
 I changed the data type of the flight column in the flight table to whole numbers.
 
-
+### 3.
 ![destinations](https://user-images.githubusercontent.com/92920156/179703190-87af8832-108a-45de-be85-3f2edf3ec712.jpg)
 
 Coming down to the table named Destination. <br>
 I unpivoted other columns leaving behind ID, Airport from and Airport to.<br>
 Then I merged Airport from and Airport to create a column named trip..<br>
 
-
+### 4.
 ![Date](https://user-images.githubusercontent.com/92920156/179703333-dd098f74-026a-4f03-ae44-fd8f0c621b0b.jpg)
 
 In the Date table created, <br>
