@@ -184,4 +184,7 @@ Not forgetting that delay is a factor that could lead to dissatisfaction which w
 
 ---
 # Note
-File was uploaded as a power BI template due to large size of initial file
+This analytics is based on Length and flight in relationship with the way they affect delay.
+Other factors would have been considered but that is beyond the scope of the dataset provided. <br>
+Also take note that the 
+File uploaded is a power BI template due to large size of the original file
