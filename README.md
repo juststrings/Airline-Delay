@@ -146,6 +146,15 @@ The relationship between Co and XE in terms of delay is very slim in differences
 The slim differences in their delay could also be related to the huge difference in their flight covered with XE taking the lead. <br>
 This is re-establishing the fact that Length is the number determinate of delay of airlines in this datasets. <br>
 
+* Airline FL Vs Airline 9E <br>
+The relationship between FL and 9E is another brainstorming scenario. <br>
+We are used to a higher delay by an airline whenever the distance/length travelled by that airline is more than that of the other.<br>
+But in this case, we would notice that Airline FL travelled the most distance compared to airline 9E yet ended up with a lower delay. <br>
+We shouldn't forget their relationship also in terms of flight.<br>
+We would notice Airline airline 9E has a higher flight covered compared to airline FL and their difference in distance/length covered is little.<br> <br>
+
+Their fore this accounted for the higher delay in airline Xe with a lesser delay in airline FL. <br>
+
 
 
 
