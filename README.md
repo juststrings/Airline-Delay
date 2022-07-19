@@ -7,7 +7,8 @@ This is my capstone project submission for Microsoft 30 days of learning with a 
 
 # Project Name: Airlines Delay Storytelling
 
-![Homejpg](https://user-images.githubusercontent.com/92920156/177653080-fb93b348-cb45-43e6-81f4-b563eb5564c5.jpg)
+![Dashboard](https://user-images.githubusercontent.com/92920156/179711859-5a93a144-3147-4ff6-a3f0-b2aff760d567.jpg)
+
 
 ---
 # Problem Objective:   
