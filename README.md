@@ -129,6 +129,12 @@ Taking insights from the bookmarked bottom 5 section of the reports which consis
 
 ![bottom 5](https://user-images.githubusercontent.com/92920156/179707977-b188012f-cd57-417f-9e80-7d8dcf2ea15d.jpg)
 
+* When looking at the relationship between OH and AS.<br>
+One will notice that OH has a far higher flight covered than AS but a lower delay compared to AS. 
+One would have expected airline OH to have the most delay due to its huge flight covered compared to airline AS minute flight covered in respect to airline OH but airline OH's slightly lesser distance/length travelled is a disadvantage with other untold circumstances not given or covered by this data such as weather. <br>
+However, this is re-establishing the fact that Length travelled has precedence over flight covered in terms of delay.
+
+
 
 
 
