@@ -42,7 +42,8 @@ It includes just one table with 9 columns: Id, Airline, Flight, Airport From, Ai
 
 ## Data Transformation
 
-![table one](https://user-images.githubusercontent.com/92920156/179700890-e13762ec-a76a-4c3e-959f-df3eb831713a.jpg
+![table one](https://user-images.githubusercontent.com/92920156/179701293-af11483d-fa2b-4c80-aa56-dbcd8d7336b2.jpg/1240x1240)
+
 The very first thing I did was to duplicate the original table into 4 new tables and renamed them - flight, destination, Date and Delay respectively.
 I did this so I would understand the data better and establish a better relationship.
 
