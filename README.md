@@ -164,7 +164,7 @@ You may be thinking I would have mentioned length but no! <br>
 
 When you compare the analytics of WN and UA you would notice that airline UA has approximately half of the length covered by airline WN with a corresponding approximate 1/12 of her flight..<br>
 
-Leading to a delay difference of over 55,000.<br>
+Leading with a delay difference of over 55,000.<br>
 
 Having seen this you would notice that despite the fact that Length is the number factor when Talking of delay but flight covered is also an important factor that could widen the margin of delay if it's too much… <br>
 
