@@ -98,7 +98,7 @@ In the modelling section, I used the ID as the key for all tables and then used 
 
 I positioned myself as a data analyst for the airline with the highest delay in order to understand the data better.
 You might ask why choosing an airline with the
-Highest delay I did that in other to understand the data better and I also believe the airline with the highest delay requires more attention so they would be able to reduce their delay (I e protecting their public image and relationship with customers) and also balance their profit
+Highest delay I did that in other to understand the data better and I also believe the airline with the highest delay requires more attention so they would be able to reduce the factors causing their delay in order to protect their public image and relationship with customers and also balance their profit
 
 
 ### Now let's dive into my findings.
