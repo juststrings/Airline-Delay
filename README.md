@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/theoyinbooke/30Days-of-Learning-Data-Analysis-
 
 @Theoyinbooke though he gave credit to kaggle.com @ https://www.kaggle.com/datasets/jimschacko/airlines-dataset-to-predict-a-delay
 
-It includes just one table with 9 columns: Id, Airline, Flight, Airport From, Airport to, DaysOfweek, Time, Length and Delay
+The data includes just one table with 9 columns: Id, Airline, Flight, Airport From, Airport to, DaysOfweek, Time, Length and Delay
 
 
 ---
@@ -172,11 +172,6 @@ It's advisable that the flight should just be twice the length in order to achie
 
 The purpose of an airline is to serve customers and provide utmost satisfaction not dissatisfaction.<br>
 Not forgetting that delay is a factor that could lead to dissatisfaction which would result in a reduction in patronage and finally a decline in revenue.<br>
-
-
-
-
-
 
 
 
