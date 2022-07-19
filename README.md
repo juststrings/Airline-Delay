@@ -86,20 +86,38 @@ Then I changed the data type of bother length and Delay to whole numbers.<br>
 ## Data Model
 
 ![model](https://user-images.githubusercontent.com/92920156/179704928-a132b883-63e5-4b9d-84be-93731c79d634.jpg)
+
 In the modelling section, I used the ID as the key for all tables and then used it to connect all the tables to a fact table which was the airline table.
 
-
-
-
-
-
-
-
-
-
-
 ---
+
 # Findings and Recommendation
+
+### Note: 
+
+I positioned myself as a data analyst for the airline with the highest delay in order to understand the data better.
+You might ask why choosing an airline with the
+Highest delay I did that in other to understand the data better and I also believe the airline with the highest delay requires more attention so they would be able to reduce their delay (I e protecting their public image and relationship with customers) and also balance their profit
+
+
+### Now let's dive into my findings.
+
+Taking insights from the bookmarked top 5 section of the reports which consist of the top 5 airlines in terms of flight, delay and length
+
+![top 5](https://user-images.githubusercontent.com/92920156/179706456-9937055c-35b7-45ec-932d-e11a56b1be34.jpg)
+
+#### Scenario One for Top 5 Section
+
+* When comparing airline WN with airline OO, you would notice that despite the fact that OO has more flights travelled compared to WN. Airline OO happens to be the third airline in terms of delay.<br>
+What is the cause of this you may ask? This is due to no other fact that airline WN has a reasonably high distance travelled compared to OO with a corresponding relatively high flight covered though less than OO. <br>
+Meaning that LONGER LENGTH TRAVELLED LEADS TO A HIGHER CHANCE OF DELAY
+
+* Looking at the relationship between Airline DL and Airline MQ.<br>
+It will be seen that this relationship is re-establishing the relationship between Airlines WN and OO. <br>
+That's a longer distance travelled by airline DL to that of airline MQ but a smaller flight covered by Airline DL to Airline MQ leads to a higher delay by airline DL than that airline MQ
+
+
+
 
 
 
