@@ -1,6 +1,7 @@
 
  
- 
+![Dashboard](https://user-images.githubusercontent.com/92920156/179711859-5a93a144-3147-4ff6-a3f0-b2aff760d567.jpg)
+
 # Introduction
 This is my submission for Microsoft 30 days of learning capstone project with a chosen track of Data analysis using Power Bi.
 
