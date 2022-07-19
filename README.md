@@ -71,8 +71,7 @@ Then DaysOFweek column data type was changed to Date.<br>
 I duplicated the DaysofWeek column thrice.<br>
 The first duplicate was renamed day, then I extracted day by the first name from the column.<br>
 The second duplicated was renamed Months, I then extracted month by name from the column.<br>
-Finally, the last duplicate was renamed Year and then extracted Year from![Delay](https://user-images.githubusercontent.com/92920156/179704103-f6be8e41-ff8c-40e9-bca3-093c4d1c6977.jpg)
- the column.<br>
+Finally, the last duplicate was renamed Year and then I extracted Year from the column.<br>
 
 
 ### 5.
