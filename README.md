@@ -106,7 +106,9 @@ Highest delay I did that in other to understand the data better and I also belie
 
 Taking insights from the bookmarked top 5 section of the reports which consist of the top 5 airlines in terms of flight, delay and length
 
-![top 5](https://user-images.githubusercontent.com/92920156/179706456-9937055c-35b7-45ec-932d-e11a56b1be34.jpg)
+
+![top 5](https://user-images.githubusercontent.com/92920156/180231853-1283074d-34e9-422b-b215-a9d809d453f4.jpg)
+
 
 #### Scenario One for Top 5 Section
 
@@ -129,7 +131,7 @@ That is LONGER FLIGHT LEADS TO A HIGHER CHANCE OF DELAY if the difference betwee
 
 Taking insights from the bookmarked bottom 5 section of the reports which consist of the bottom 5 airlines in terms of flight, delay and length.
 
-![bottom 5](https://user-images.githubusercontent.com/92920156/179707977-b188012f-cd57-417f-9e80-7d8dcf2ea15d.jpg)
+![bottom 5](https://user-images.githubusercontent.com/92920156/180231987-e7ae32e0-50a9-4e2f-b689-fb43f70cedf8.jpg)
 
 * When looking at the relationship between OH and AS.<br>
 One will notice that OH has a far higher flight covered than AS but a lower delay compared to AS. 
@@ -142,7 +144,7 @@ Restating the fact of length is an important factor to consider when Talking abo
 
 The Analysis Section which is a very critical section containing Airlines not covered by the top and bottom sections
 
-![analysis](https://user-images.githubusercontent.com/92920156/179708893-79bc8312-5b1f-43a6-b5e7-5ce0471052fe.jpg)
+![analysis](https://user-images.githubusercontent.com/92920156/180232076-9fccd05c-a343-46c2-b269-28991a0ed1da.jpg)
 
 * Airline CO Vs Airline XE <br>
 The relationship between Co and XE in terms of delay is very slim in differences though CO has a higher delay which could be related to its slightly longer length travelled than XE. <br> 
