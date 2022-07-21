@@ -174,7 +174,11 @@ Having seen this you would notice that despite the fact that Length is the numbe
 Though a piece of general advice for all airlines is to copy or imitate the result or methods of which is keeping a balanced ratio between the length and the flight.. <br>
 It's advisable that the flight should just be twice the length in order to achieve and beat the result of airline UA and maintain a reasonable delay.<br>
 
-The purpose of an airline is to serve customers and provide utmost satisfaction not dissatisfaction.<br>
+Aside all that, from the analytic you would notice that tuesday and wednesday had the most delay, I wouldnt advise airlines not to fly or reduce their flight on those days but instead i would advise airlines that they should look at the causes of delay on those two days and avoid them in their frequent flights. <br>
+
+A data for just one of the tuesdays and Wednesday of a whole month or year isnt enough to give suggestion on avoiding flight on those days but it enough reason to look at the causes of delay on those days and avoid them on any other day. <br>
+
+Having said all that, the purpose of an airline is to serve customers and provide utmost satisfaction not dissatisfaction.<br>
 Not forgetting that delay is a factor that could lead to dissatisfaction which would result in a reduction in patronage and finally a decline in revenue.<br>
 
 
