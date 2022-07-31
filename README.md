@@ -138,7 +138,7 @@ One will notice that OH has a far higher flight covered than AS but a lower dela
 One would have expected airline OH to have the most delay due to its huge flight covered compared to airline AS minute flight covered in respect to airline OH but airline OH's slightly lesser distance/length travelled is a disadvantage with other untold circumstances not given or covered by this data such as weather. <br>
 However, this is re-establishing the fact that Length travelled has precedence over flight covered in terms of delay.
 
-* Analysis Airline YV, F9 and HA <br>
+* Analysis of Airline YV, F9 and HA <br>
 Nothing really special between the relationship between YV, F9 AND HA because the flight covered by YV is the highest with F9 being higher and HA the lowest. Same when looking at their relationship in terms of length. Therefore this leads to YV having the highest delay and HA having the lowest delay. <br>
 Restating the fact of length is an important factor to consider when Talking about the delay. <br> <br>
 
